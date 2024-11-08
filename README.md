@@ -1,6 +1,7 @@
 
 # JourneyGo
 Independent Study, National Chengchi University
+
 **A Group-oriented Traveling Recommender System** 
 
 *Django, MongoDB, Python, JavaScript, HTML, Bootstrap*
